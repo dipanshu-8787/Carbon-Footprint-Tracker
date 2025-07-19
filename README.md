@@ -8,11 +8,6 @@ During the course, we were guided to build this project step-by-step. It focuses
 
 It was a great hands-on way to understand how React connects with Express and MongoDB in a real-world application.
 
-## 📸 Project Preview
-
-![App Screenshot]("C:\Users\apriy\OneDrive\Pictures\Screenshots\Screenshot 2025-07-19 190928.png")
-![Dashboard]("C:\Users\apriy\OneDrive\Pictures\Screenshots\Screenshot 2025-07-19 191015.png")
-
 
 ## ✨ Features
 
