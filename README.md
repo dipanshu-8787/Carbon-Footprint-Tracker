@@ -8,7 +8,6 @@ During the course, we were guided to build this project step-by-step. It focuses
 
 It was a great hands-on way to understand how React connects with Express and MongoDB in a real-world application.
 
-
 ## ✨ Features
 
 - User Authentication (Login / Signup)
@@ -27,3 +26,8 @@ It was a great hands-on way to understand how React connects with Express and Mo
 - **Database:** MongoDB (Atlas)
 - **Other Tools:** JWT for authentication, Mongoose for DB operations
 
+## 👨‍💻 Developer Info
+
+- **Developer**: Dipanshu Agnihotri  
+- **Email**: dipansh89agnihotri@gmail.com  
+- **Location**: Kanpur, Uttar Pradesh, India 🇮🇳 
